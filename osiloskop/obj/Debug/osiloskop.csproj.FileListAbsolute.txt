@@ -1,0 +1,8 @@
+C:\Users\musta\Documents\SharpDevelop Projects\osiloskop\osiloskop\bin\Debug\osiloskop.exe.config
+C:\Users\musta\Documents\SharpDevelop Projects\osiloskop\osiloskop\bin\Debug\osiloskop.exe
+C:\Users\musta\Documents\SharpDevelop Projects\osiloskop\osiloskop\bin\Debug\osiloskop.pdb
+C:\Users\musta\Documents\SharpDevelop Projects\osiloskop\osiloskop\obj\Debug\osiloskop.csprojResolveAssemblyReference.cache
+C:\Users\musta\Documents\SharpDevelop Projects\osiloskop\osiloskop\obj\Debug\osiloskop.MainForm.resources
+C:\Users\musta\Documents\SharpDevelop Projects\osiloskop\osiloskop\obj\Debug\osiloskop.csproj.GenerateResource.Cache
+C:\Users\musta\Documents\SharpDevelop Projects\osiloskop\osiloskop\obj\Debug\osiloskop.exe
+C:\Users\musta\Documents\SharpDevelop Projects\osiloskop\osiloskop\obj\Debug\osiloskop.pdb
