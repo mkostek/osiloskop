@@ -60,7 +60,7 @@ namespace osiloskop
 			this.label1.Name = "label1";
 			this.label1.Size = new System.Drawing.Size(1127, 19);
 			this.label1.TabIndex = 0;
-			this.label1.Text = "+++++++++++++++++++++++++";
+			this.label1.Text = "-------------------------------------";
 			this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
 			this.label1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Down);
 			this.label1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Move);
@@ -73,7 +73,7 @@ namespace osiloskop
 			this.label2.Name = "label2";
 			this.label2.Size = new System.Drawing.Size(1127, 19);
 			this.label2.TabIndex = 1;
-			this.label2.Text = "------------------------------";
+			this.label2.Text = "++++++++++++++++++++++++++++++";
 			this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
 			this.label2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Down);
 			this.label2.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Move);
